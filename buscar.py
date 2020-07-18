@@ -5,7 +5,7 @@ import os
 
 palavra = input("digite o que você busca:")
 
-driver = webdriver.Chrome(executable_path=r'C://Users/Python/PycharmProjects/google/Chromedriver.exe')
+driver = webdriver.Chrome(executable_path=r'./Chromedriver.exe')
 
 driver.get('https://www.google.com.br/')
 
@@ -28,3 +28,4 @@ while True:
         break
 
 os.system("pause")
+

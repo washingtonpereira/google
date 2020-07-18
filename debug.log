@@ -2,3 +2,13 @@
 [0702/140620.363:ERROR:process_info.cc(556)] ReadMemoryInfo failed
 [0702/140620.363:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
 [0702/140620.363:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
+[0715/233627.286:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0715/233627.322:ERROR:exception_snapshot_win.cc(98)] thread ID 3968 not found in process
+[0715/233627.401:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0715/233627.402:ERROR:exception_snapshot_win.cc(98)] thread ID 2536 not found in process
+[0715/233627.528:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0715/233627.528:ERROR:exception_snapshot_win.cc(98)] thread ID 1980 not found in process
+[0715/233627.708:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0715/233627.708:ERROR:exception_snapshot_win.cc(98)] thread ID 1848 not found in process
+[0715/233627.837:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0715/233627.838:ERROR:exception_snapshot_win.cc(98)] thread ID 2804 not found in process
